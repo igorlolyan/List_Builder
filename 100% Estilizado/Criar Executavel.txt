@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon="C:\Users\igorl\Desktop\Testato\Claudio 100% Estilizado\graco128.ico" --add-data "C:\Users\igorl\Desktop\Testato\Claudio 100% Estilizado\graco128.ico;." --name="Lista Graco" Lista_de_Materiais.py
